@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lectureResultLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+    
+    <TextView 
+        android:id="@+id/resultDayTextView"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:textSize="25sp"
+        android:layout_margin="5dp"
+        android:gravity="center"/>
+    
+    <TableLayout 
+        android:id="@+id/resultDetailsTableLayout"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_marginLeft="10dp"
+        android:layout_height="match_parent" >
+        
+        <TableRow 
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"        	
+        	android:layout_weight="1" >
+            <TextView 
+	            android:id="@+id/resultTitleTextView"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="20sp"
+	            android:textStyle="bold" />
+        </TableRow>
+        
+        <TableRow 
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+        	android:layout_marginTop="5dp"
+        	android:layout_weight="1" >
+	            <TextView
+		            android:id="@+id/resultDetailsTextView"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_gravity="center_vertical"
+		            android:gravity="center_vertical"
+		            android:drawableLeft="@drawable/clock"
+		            android:textSize="15sp" />
+        </TableRow>
+        
+        
+
+        
+        
+    </TableLayout>
+    
+
+</LinearLayout>

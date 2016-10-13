@@ -1,0 +1,134 @@
+{
+	"courses":
+	[
+		{
+			"name": "Mobile Application Development",
+			"teacher": "Giovanni Malnati",
+			"description": "The course aims at teaching the fundamentals of mobile application design and development.\n It explores the principles and the challenges in designing and developing for this peculiar kind of devices, focusing on smart phone platforms such as Android and iOS. These platforms are continuously growing and becoming active and important participant in the wider mobile ecosystem. The material will be presented through a thorough study of the architecture, and a rich set of practical examples that covers all aspect of the mobile device usage"
+		},
+		{
+			"name": "Project and Lab on Communication Systems",
+			"teacher": "Guido Albertengo",
+			"description": "The course aims to bring students to the techniques of high-level programming systems embedded. \n In its development are examined first the common features of the software environments used in this field and related programming languages, then focus on the environment and on the Microsoft Micro Framework.NET programming language C # objects.\nThe course is completed with a project for a software system embedded on a hardware platform family Gadgeteer, totaling 60 hours of lecture and project assistance."
+		},
+		{
+			"name": "Programmazione Distribuita I",
+			"teacher": "Enrico Masala",
+			"description": "L'insegnamento si prefigge di far conoscere le principali tecniche per la realizzazione di applicazioni distribuite, a cominciare dalla cosiddetta 'programmazione di rete', per arrivare alla programmazione di un'applicazione distribuita basata sul paradigma web che includa anche l'uso di una base dati relazionale remota."
+		},
+		{
+			"name": "Distributed Programming II",
+			"teacher": "Riccardo Sisto",
+			"description": "This course completes the students' knowledge and abilities that are taught in the previous course on Distributed Programming I and that are required for developing distributed applications. It focuses on the techniques for interactions among distributed applications, such as distributed services (web services) and XML."
+		},
+		{
+			"name": "Programmazione di Sistema",
+			"teacher": "Giovanni Malnati",
+			"description": "Il modulo illustra l'architettura dei sistemi operativi analizzandone i moduli interni, e approfondisce i concetti e le tecniche di gestione efficiente delle risorse di un sistema di elaborazione (processori, memorie, dispositivi periferici, file, ecc.). Sono presentate inoltre le tecniche di programmazione di sistema mediante l'analisi e l'utilizzo delle chiamate di sistema di Unix e Windows. Vengono infine introdotte ed utilizzate tecniche avanzate di programmazione concorrente."
+		},
+		{
+			"name": "Computer Systems Security",
+			"teacher": "Antonio Lioy",
+			"description": "This course addresses the issues of security in modern computer systems, with particular attention to data security and the protection of computer networks and network applications, in a closed environment (Intranet) and open (Internet). The aim of the course is to put the student can perform both the safety analysis is the design of the protective measures to a computer system in the network."
+		}
+	],
+	
+	"lectures": 
+	[
+		{
+			"day": 0,
+			"classroom": "4D",
+			"start": "10:00",
+			"end": "13:00",
+			"course": "Mobile Application Development"
+		},
+		
+		{
+			"day": 0,
+			"classroom": "12C",
+			"start": "15:00",
+			"end": "18:00",
+			"course": "Distributed Programming II"
+		},
+		
+		{
+			"day": 1,	
+			"classroom": "12D",
+			"start": "15:30",
+			"end": "18:30",
+			"course": "Programmazione Distribuita I"
+		},
+		
+		{
+			"day": 1,	
+			"classroom": "4D",
+			"start": "08:30",
+			"end": "10:30",
+			"course": "Computer Systems Security"
+		},
+		
+		{
+			"day": 2,	
+			"classroom": "5I",
+			"start": "10:30",
+			"end": "13:30",
+			"course": "Programmazione di Sistema"
+		},
+
+		{
+			"day": 2,	
+			"classroom": "4D",
+			"start": "15:30",
+			"end": "17:00",
+			"course": "Computer Systems Security"
+		},
+		
+		{
+			"day": 3,	
+			"classroom": "4D",
+			"start": "8:30",
+			"end": "11:30",
+			"course": "Mobile Application Development"
+		},
+		
+		{
+			"day": 3,	
+			"classroom": "5I",
+			"start": "13:30",
+			"end": "15:30",
+			"course": "Computer Systems Security"
+		},
+
+		{
+			"day": 3,	
+			"classroom": "12D",
+			"start": "16:30",
+			"end": "18:30",
+			"course": "Project and Lab on Communication Systems"
+		},
+
+		{
+			"day": 4,	
+			"classroom": "Labinf",
+			"start": "16:30",
+			"end": "17:30",
+			"course": "Mobile Application Development"
+		},
+
+		{
+			"day": 4,	
+			"classroom": "2I",
+			"start": "8:30",
+			"end": "11:30",
+			"course": "Project and Lab on Communication Systems"
+		},
+
+		{
+			"day": 4,	
+			"classroom": "4D",
+			"start": "13:00",
+			"end": "16:00",
+			"course": "Programmazione Distribuita I"
+		}
+	]
+}

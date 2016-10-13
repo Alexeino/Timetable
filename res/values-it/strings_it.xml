@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="app_name">Orario</string>
+    <string name="monday">Lun</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mer</string>
+    <string name="thursday">Gio</string>
+    <string name="friday">Ven</string>
+    <string name="hour1">8:30</string>
+    <string name="hour2">9:30</string>
+    <string name="hour3">10:30</string>
+    <string name="hour4">11:30</string>
+    <string name="hour5">12:30</string>
+    <string name="hour6">13:30</string>
+    <string name="hour7">14:30</string>
+    <string name="hour8">15:30</string>
+    <string name="hour9">16:30</string>
+    <string name="hour10">17:30</string>
+    <string name="hour11">18:30</string>
+    <string name="room">Aula</string>
+    <string name="menu">Menu</string>
+    <string name="clear">Azzera ricerca</string>
+    <string name="details_title">Dettagli del corso</string>
+    <string name="title_activity_details">Dettagli</string>
+    <string name="action_search">Cerca</string>
+    <string name="title_activity_search">Ricerca</string>
+    <string name="search">Cerca</string>
+    <string name="noResult">Nessun risultato trovato</string>
+    <string name="teacher">Nome del docente o una parte</string>
+    <string name="course">Nome del corso o una parte</string>
+    <string name="exportTitle">Esporta su Google Calendar</string>
+    <string name="emptyResult">Nessun evento da esportare</string>
+    <string name="noAccount">Nessun account Google trovato</string>
+    <string name="confirmExport">Confermi?</string>
+    
+</resources>
